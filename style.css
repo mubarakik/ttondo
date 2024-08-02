@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&display=swap');
 html{
     font-size: 16px
-    
+
 }
 *{
     margin: 0;
@@ -190,6 +190,17 @@ hero{
     }
 
 }
+
+.btn-read-more{
+    text-decoration: none;
+    color: #056839;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap:10px;
+    width:100%;
+}
+
 
 .about-summary{  
     width: 100%;
